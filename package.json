@@ -1,6 +1,6 @@
 {
-  "name": "react-native-yandex-mobile-ads",
-  "version": "0.3.2",
+  "name": "@zvezdochots/react-native-yandex-mobile-ads",
+  "version": "0.3.3",
   "description": "Implementation Yandex ads for react native",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -36,13 +36,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/vtr0n/react-native-yandex-mobile-ads",
-  "author": "Valery Krasnoselsky <valery.krasnoselsky@gmail.com> (https://github.com/vtr0n)",
+  "repository": "https://github.com/zvezdochots/react-native-yandex-mobile-ads",
+  "author": "Michael Silunsky <zvezdochots@gmail.com> (https://github.com/zvezdochots)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vtr0n/react-native-yandex-mobile-ads/issues"
+    "url": "https://github.com/zvezdochots/react-native-yandex-mobile-ads/issues"
   },
-  "homepage": "https://github.com/vtr0n/react-native-yandex-mobile-ads#readme",
+  "homepage": "https://github.com/zvezdochots/react-native-yandex-mobile-ads#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
